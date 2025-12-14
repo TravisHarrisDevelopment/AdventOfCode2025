@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _2025AoC
+namespace Day01
 {
     public class CombinationDialer
     {

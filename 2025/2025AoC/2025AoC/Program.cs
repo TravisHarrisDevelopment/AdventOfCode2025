@@ -1,7 +1,7 @@
 ﻿
 using System.Data;
 
-namespace _2025AoC
+namespace Day01
 {
     internal class Program
     {
