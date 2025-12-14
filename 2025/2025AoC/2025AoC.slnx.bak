@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Day01/Day01.csproj" />
+  <Project Path="2025AoC/Day01.csproj" />
   <Project Path="Day02/Day02.csproj" />
 </Solution>
